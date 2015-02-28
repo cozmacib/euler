@@ -1,1 +1,1 @@
-# repo
+Euler project solutions
